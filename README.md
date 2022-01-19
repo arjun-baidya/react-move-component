@@ -4,4 +4,4 @@ Features:
     2. Move item opposite side by click
     
 
-<img align="left" alt="component" title="react" src="./images/movecom.png" />
+<img align="left" alt="component" title="react" src="/images/movecom.png" />
