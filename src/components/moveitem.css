@@ -1,0 +1,31 @@
+.full-div {
+    text-align: center;
+    width: 50%;
+    margin: auto;
+}
+
+.display{
+    text-align: center;
+    display: flex;
+}
+
+.left{
+    cursor: pointer;
+}
+
+.left p{
+    color: #fff;
+    font-size: 20px;
+    background-color: black;
+}
+
+.right{
+    cursor: pointer;
+    padding-left: 500px;
+}
+
+.right p{
+    color: #fff;
+    font-size: 20px;
+    background-color: rgb(136, 41, 41);
+}
