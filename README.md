@@ -4,7 +4,7 @@ Features:
     2. Move item opposite side by click
     
 
-<img align="left" alt="component" title="react" src="/public/images/movecom.png" />
+<img align="left" alt="component" title="react" src="/public/images/movecompo.png" />
 
 
 Documentation:
@@ -16,4 +16,3 @@ Documentation:
      4. By-default data store into the left side component
      5. Two function create for moving item
 
-     
