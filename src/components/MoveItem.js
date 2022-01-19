@@ -34,6 +34,7 @@ function MoveItem() {
         <h1>Move Item</h1>
 
         <h3>Item List</h3>
+        <p>Click Item then it will move </p>
         <div className="display" >
             <div className="left">
                 <h2>left side</h2>
